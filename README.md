@@ -25,11 +25,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 <br />
-
+<!--
 ### **GitHub Statics**
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravidurathnayaka&theme=dracula&hide" alt="ravidurathnayaka" />
 <br />
+-->
 
 ### **Contact Me**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
