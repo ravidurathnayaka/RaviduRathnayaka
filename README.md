@@ -1,4 +1,3 @@
-### <p align="center"><img src="https://media.licdn.com/dms/image/v2/D5616AQHs8MZpUE5-Pg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732000369232?e=1737590400&v=beta&t=RIFewAJFeT0vQtGpRM9vwGK3T8S4Pv7uwKOdt1N8zZs"></p>
 <h1 align="center">Hi🙋‍♂️, I am Ravidu Rathnayaka </h1>
 <h3 align="center"> <a href="https://www.linkedin.com/in/ravidurathnayaka/">Full-Stack Software Engineer</a> </h3>
 <h4 align="center">👨‍💻 I'm passionate about full-stack web development. 👨‍💻</h4>
