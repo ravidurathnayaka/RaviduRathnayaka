@@ -50,8 +50,8 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=rmrhrathnayaka@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/ravidurathnayaka_" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=ravidurathnayaka_ Instagram style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/ravidu_rathnayaka_" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=ravidu_rathnayaka_ Instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/rmrhrathnayaka" target="_blank">
@@ -64,4 +64,4 @@
 -----
 Credits: [RaviduRathnayaka](https://github.com/ravidurathnayaka)
 
-Last Updated on: 2024 October 13
+Last Updated on: 2025 March 13
